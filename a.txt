@@ -1,0 +1,8 @@
+this vamsi 
+from tirupati
+
+
+change the cousre
+
+
+/bin/bash: line 1: wq: command not found
